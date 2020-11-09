@@ -1,1 +1,1 @@
-# newssi
+# NewsCript
